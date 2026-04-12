@@ -19,6 +19,10 @@ const Hello = () => {
           <td>30</td>
         </tr>
       </table>
+
+      <footer>
+        <p>&copy; 2024 Your Company. All rights reserved.</p>
+      </footer>
     </div>
   )
 }

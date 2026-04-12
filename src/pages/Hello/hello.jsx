@@ -21,7 +21,7 @@ const Hello = () => {
       </table>
 
       <footer>
-        <p>&copy; 2024 Your Company. All rights reserved.</p>
+        <p>&copy; 2025 Your Company. All rights reserved.</p>
       </footer>
     </div>
   )
